@@ -1,0 +1,24 @@
+.Nav {
+    background-color: #004164;
+    color: white;
+    margin-top: 15px;
+}
+
+.Ul {
+    width: 1170px;
+    height: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+
+li {
+    padding-top: 7px;
+}
+
+li:hover {
+    color: #94c1e1;
+    cursor: pointer;
+}
